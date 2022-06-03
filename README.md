@@ -20,6 +20,7 @@ Steps:
    `$ pip3 install pandas`
 4. Install Selenium  
    `$ pip3 install selenium`
+ATENTION: Make Sure do have `geckodriver` ussed for webdrive scrapping as all the testing and running was made on FIREFOX
 
 ## Usage
 
