@@ -16,9 +16,9 @@ Steps:
 1. Clone the repo to your computer.
 2. Install Requests  
    `$ pip3 install requests`
-4. Install Pandas  
+3. Install Pandas  
    `$ pip3 install pandas`
-5. Install Selenium
+4. Install Selenium
    `$ pip3 install selenium`
 
 ## Usage
