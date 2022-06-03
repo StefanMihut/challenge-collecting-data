@@ -18,7 +18,7 @@ Steps:
    `$ pip3 install requests`
 3. Install Pandas  
    `$ pip3 install pandas`
-4. Install Selenium
+4. Install Selenium  
    `$ pip3 install selenium`
 
 ## Usage
